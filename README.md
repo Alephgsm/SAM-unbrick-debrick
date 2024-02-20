@@ -5,11 +5,11 @@ just connect your device in EDL mode and use tool 🙂
 
 list of device :
 
-SAMSUNG Galaxy A52 5G SM-A526U U10
-SAMSUNG Galaxy A71 SM-A716U Ug
-Samsung Galaxy Note 10 PLUS SM-N975U U7
-Samsung Galaxy Note 10 SM-N970U U7
-Samsung Galaxy Note20 5G SM-N981U U2
+* SAMSUNG Galaxy A52 5G SM-A526U U10
+* SAMSUNG Galaxy A71 SM-A716U Ug
+* Samsung Galaxy Note 10 PLUS SM-N975U U7
+* Samsung Galaxy Note 10 SM-N970U U7
+* Samsung Galaxy Note20 5G SM-N981U U2
 Samsung Galaxy Note20 Ultra 5G SM-N986U U2
 Samsung Galaxy Note20 Ultra 5G SM-N986U U5
 Samsung Galaxy 510 Plus SM-G975U U7
