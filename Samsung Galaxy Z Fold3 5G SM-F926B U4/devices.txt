@@ -1,0 +1,8 @@
+
+
+Qualcomm HS-USB QDLoader 9008 COM192
+
+
+0. \\.\PhysicalDrive0  Size: 81920MB, 167772160 sectors, size: 512 Mount:C:, Name:[]
+
+
